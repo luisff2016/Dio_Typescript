@@ -1,7 +1,6 @@
 {
   "name": "dio_typescript",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
@@ -14,5 +13,14 @@
   },
   "devDependencies": {
     "typescript": "^4.7.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisff2016/Dio_Typescript.git"
+  },
+  "bugs": {
+    "url": "https://github.com/luisff2016/Dio_Typescript/issues"
+  },
+  "homepage": "https://github.com/luisff2016/Dio_Typescript#readme",
+  "description": ""
 }
